@@ -1,4 +1,4 @@
-# игнорировать файл test.py, .idea
+# ignore files test.py, .idea
 		
 test.py
 .idea/
